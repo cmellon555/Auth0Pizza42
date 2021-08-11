@@ -13,6 +13,7 @@ import history from "./utils/history";
 
 // styles
 import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
 
 // fontawesome
 import initFontAwesome from "./utils/initFontAwesome";
